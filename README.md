@@ -30,3 +30,14 @@ Step 7: Congratulate yourself and share your website!
 
 ## Usage
 
+
+![Screenshot](./top-page.png)
+
+
+![Screenshot](./aboutme-section.png)
+
+
+![Screenshot](./mywork-section.png)
+
+
+![Screenshot](./bottom-page.png)
