@@ -3,6 +3,7 @@
     padding: 0;
     flex-wrap: wrap;
     box-sizing: border-box;
+    scroll-behavior: smooth;
     /* background-color: inherit; */
 }
 
@@ -43,6 +44,7 @@ body {
       float: right;
       line-height: 100px;
       position: relative;
+      max-width: 1300px;
   }
 
   nav a{
