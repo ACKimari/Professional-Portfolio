@@ -12,6 +12,10 @@ Working through this project I learned a myriad of codes to enhace the design of
 
 Finally, what makes my project stand are the sof tone colors used and font that is easy to read. 
 
+## Update
+
+I was able to alter the screensizes and input my first group project within my Portfolio. However, I still struggled in linking the menu attributes to their respective pages. 
+
 ## Installation
 
 Step 1: Create your HTML and CSS. Link your CSS to your HTML.
@@ -41,3 +45,27 @@ Step 7: Congratulate yourself and share your website!
 
 
 ![Screenshot](./bottom-page.png)
+
+
+![Screenshot](./updatedTop.png)
+
+
+![Screenshot](./updatedAboutMe.png)
+
+
+![Screenshot](./updatedProjects.png)
+
+
+![Screenshot](./updatedFooter.png)
+
+
+![Screenshot](./smallscreenTop.png)
+
+
+![Screenshot](./smallscreenAboutme.png)
+
+
+![Screenshot](./smallscreenProjects.png)
+
+
+![Screenshot](./smallscreenFooter.png)
