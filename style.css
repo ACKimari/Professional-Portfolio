@@ -11,6 +11,12 @@ body {
     text-align: center;
     /* padding: 20px; */
   }
+
+  #nav-name {
+    display: flex;
+    flex-direction: row;
+    white-space: nowrap;
+  }
   
   .sec1{
       width: 1200px;
@@ -65,8 +71,9 @@ body {
       width: 68%;
       max-width: 1300px;
       margin: 0;
-      padding: 0 50px;
+      padding: 0 0 0 50px;
       z-index: 1;
+      flex-grow: 1;
       /* background: #e6aad9; */
   }
 
@@ -173,6 +180,8 @@ body {
       background-color: wheat;
       padding: 10px;
       max-width: 500px;
+      height: fit-content;
+      margin: 7px;
   }
 
 
@@ -220,7 +229,8 @@ body {
       }
 
       .logo {
-          padding-left: 25px;  
+          padding-left: 25px; 
+          width: 100%; 
       }
 
       .navbar__toggle .bar{
