@@ -35,37 +35,37 @@ Step 7: Congratulate yourself and share your website!
 ## Usage
 
 
-![Screenshot](./top-page.png)
+![Screenshot](./Assets/top-page.png)
 
 
-![Screenshot](./aboutme-section.png)
+![Screenshot](./Assets/aboutme-section.png)
 
 
-![Screenshot](./mywork-section.png)
+![Screenshot](./Assets/mywork-section.png)
 
 
-![Screenshot](./bottom-page.png)
+![Screenshot](./Assets/bottom-page.png)
 
 
-![Screenshot](./updatedTop.png)
+![Screenshot](./Assets/updatedTop.png)
 
 
-![Screenshot](./updatedAboutMe.png)
+![Screenshot](./Assets/updatedAboutMe.png)
 
 
-![Screenshot](./updatedProjects.png)
+![Screenshot](./Assets/updatedProjects.png)
 
 
-![Screenshot](./updatedFooter.png)
+![Screenshot](./Assets/updatedFooter.png)
 
 
-![Screenshot](./smallscreenTop.png)
+![Screenshot](./Assets/smallscreenTop.png)
 
 
-![Screenshot](./smallscreenAboutme.png)
+![Screenshot](./Assets/smallscreenAboutme.png)
 
 
-![Screenshot](./smallscreenProjects.png)
+![Screenshot](./Assets/smallscreenProjects.png)
 
 
-![Screenshot](./smallscreenFooter.png)
+![Screenshot](./Assets/smallscreenFooter.png)
